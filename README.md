@@ -78,7 +78,7 @@ I am also interested in **self-hosted systems and personal infrastructure**.
 | Project | Description | Stack |
 | --- | --- | --- |
 | [openconnect-ssh](https://github.com/imYangliu/openconnect-ssh) | Lightweight SSH wrapper for AnyConnect/OpenConnect environments with automatic VPN recovery, split tunneling, and reverse port forwarding. | Shell, SSH, OpenConnect |
-| [Diff-UNet](https://github.com/imYangliu/Diff-UNet) | Diffusion-embedded network for 3D medical image segmentation, with support for BraTS2020 and BTCV workflows. | Python, PyTorch |
+| [codex-telegram-bridge](https://github.com/imYangliu/codex-telegram-bridge) | Self-hosted Telegram bridge for stable, persistent Codex conversations with streaming replies, queueing, cancel, and steer controls. | Python, Telegram, Codex |
 | [AnnounceChat](https://github.com/imYangliu/AnnounceChat) | Announcement-oriented QA and prompt-engineering experiments, including dataset preprocessing pipelines. | Python, Jupyter |
 
 ## GitHub Stats
