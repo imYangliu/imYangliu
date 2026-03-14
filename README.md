@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="./assets/terminal-hero.svg" alt="Liu Yang terminal banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-hero.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/terminal-hero-light.svg" />
+    <img src="./assets/terminal-hero-light.svg" alt="Liu Yang terminal banner" />
+  </picture>
 </div>
 
 <p align="center">
@@ -80,16 +84,36 @@ I am also interested in **self-hosted systems and personal infrastructure**.
 ## GitHub Stats
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=imYangliu&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github"
-    alt="GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=imYangliu&layout=compact&langs_count=6&hide_border=true"
-    alt="Top languages"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=imYangliu&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=0b1220&title_color=e5e7eb&text_color=94a3b8&icon_color=22c55e&border_color=1f2937"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-readme-stats.vercel.app/api?username=imYangliu&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=f8fafc&title_color=111827&text_color=475569&icon_color=2563eb&border_color=e2e8f0"
+    />
+    <img
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=imYangliu&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=f8fafc&title_color=111827&text_color=475569&icon_color=2563eb&border_color=e2e8f0"
+      alt="GitHub stats"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=imYangliu&layout=compact&langs_count=6&bg_color=0b1220&title_color=e5e7eb&text_color=94a3b8&border_color=1f2937"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=imYangliu&layout=compact&langs_count=6&bg_color=f8fafc&title_color=111827&text_color=475569&border_color=e2e8f0"
+    />
+    <img
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=imYangliu&layout=compact&langs_count=6&bg_color=f8fafc&title_color=111827&text_color=475569&border_color=e2e8f0"
+      alt="Top languages"
+    />
+  </picture>
 </p>
 
 ## Find Me
