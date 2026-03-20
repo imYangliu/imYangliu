@@ -16,13 +16,13 @@
 </p>
 
 <p align="center">
-  Graduate student focused on time series analysis and LLM agents, with previous work in full-stack web development and computer vision.
+  Graduate student focused on time series analysis and LLM agents, with previous work across networking systems, infrastructure tooling, full-stack web development, and computer vision.
 </p>
 
 ## About Me
 
-- Graduate student with a background in web development, computer vision, and practical infrastructure tooling.
-- During undergraduate studies, I mainly worked on frontend and backend web development, along with image segmentation and face-related algorithms.
+- Graduate student with a background in networking systems, web development, computer vision, and practical infrastructure tooling.
+- During undergraduate studies, I mainly worked on frontend and backend web development, network engineering, and image segmentation / face-related algorithms.
 - I enjoy building automation that improves everyday computing workflows and keeps systems simple to operate.
 
 ## Current Focus
@@ -75,11 +75,25 @@ I am also interested in **self-hosted systems and personal infrastructure**.
 
 ## Featured Projects
 
+### Open Source
+
 | Project | Description | Stack |
 | --- | --- | --- |
 | [openconnect-ssh](https://github.com/imYangliu/openconnect-ssh) | Lightweight SSH wrapper for AnyConnect/OpenConnect environments with automatic VPN recovery, split tunneling, and reverse port forwarding. | Shell, SSH, OpenConnect |
 | [codex-telegram-bridge](https://github.com/imYangliu/codex-telegram-bridge) | Self-hosted Telegram bridge for stable, persistent Codex conversations with streaming replies, queueing, cancel, and steer controls. | Python, Telegram, Codex |
 | [AnnounceChat](https://github.com/imYangliu/AnnounceChat) | Announcement-oriented QA and prompt-engineering experiments, including dataset preprocessing pipelines. | Python, Jupyter |
+
+### Selected Experience
+
+These projects are currently private and not open sourced yet.
+
+| Project | Description | Stack / Scope |
+| --- | --- | --- |
+| XLAN.NET | Built a scalable traffic control and steering framework on top of TUN virtual interfaces and policy routing, with dual-stack TCP/UDP and IPv4/IPv6 handling. Designed client/server rule layers for protocol-, process-, CIDR-, and domain-based scheduling, and experimented with custom `UDP over Anything` encapsulation to improve stability and latency on weak networks. | Linux networking, TUN, policy routing, OpenWRT, transport optimization |
+| DevOps Pipeline | Designed a CI/CD pipeline with Gitea, Drone, and Docker to automate the flow from code commit to image build and container deployment, supporting one-click rollout across multiple environments. | Gitea, Drone, Docker, CI/CD |
+| Gost Port Forwarding | Built a stable port-forwarding toolkit on top of Gost and SSH with keepalive and auto-reconnect, plus `SSH + UFW` based secure access, lightweight CLI helpers, and boot scripts for cross-machine testing and collaboration. | Gost, SSH, UFW, Shell, internal tooling |
+| Memory | Campus award-winning full-stack foreign language learning community project. Built with Spring Boot and Vue, supporting social features, content systems, and real-time communication via WebSocket / RTC, with an extensible vocabulary memory model and a full deployment loop covering DNS, CDN, HSTS, and monitoring / alerting. | Spring Boot, Vue, WebSocket, RTC, DevOps |
+| OpenClaw Hydra | Designed a distributed networking and compute scheduling architecture with a control plane, GPU compute layer, and IPv6 edge nodes. Integrated OpenClaw with a jump-host model, used `VPN-Slice` for OpenConnect route splitting, and leveraged IPv6-only nodes for cost-effective CPU-heavy workloads. | Distributed systems, OpenConnect, VPN-Slice, IPv6, GPU / edge infrastructure |
 
 ## GitHub Stats
 
