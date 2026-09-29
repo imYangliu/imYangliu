@@ -29,7 +29,11 @@ and the network tooling that keeps remote dev boxes reachable.
 
 ### ✍️ Recent writing
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [playwright-cli：为任何 Code Agent 接入目前最快的 Browser-Use 能力](https://liuyang.dev/posts/agent/resume-applications-playwright-cli-skills/)
+- [值得长期关注的 Agent 技术博客](https://liuyang.dev/posts/agent/agent-technical-blogs/)
+- [虚拟化扫盲笔记：Container、KVM、QEMU 到 Firecracker](https://liuyang.dev/posts/linux/hypervisor/)
+- [LangAC：实训项目复盘——一个「零 SQL」的英语学习平台](https://liuyang.dev/posts/dev/langac-internship-project/)
+- [Tailscale + 无线 ADB：在任何地方远程调试 Android 设备](https://liuyang.dev/posts/dev/remote-android-debug/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More at [liuyang.dev](https://liuyang.dev)
