@@ -29,11 +29,11 @@ and the network tooling that keeps remote dev boxes reachable.
 
 ### ✍️ Recent writing
 
-<!-- BLOG-POST-LIST:START -->- [My HomeLAB：从接入到自建服务](https://liuyang.dev/posts/network/homelab/)
+<!-- BLOG-POST-LIST:START -->- [个人向域名选购指南：从我手上这一堆域名说起](https://liuyang.dev/posts/misc/why-so-many-domains/)
+- [Resend + Cloudflare 还是自建 Stalwart：我的邮件分工](https://liuyang.dev/posts/network/self-hosted-mail-stalwart/)
+- [My HomeLAB：从接入到自建服务](https://liuyang.dev/posts/network/homelab/)
 - [playwright-cli：最快的 Agent 浏览器方案](https://liuyang.dev/posts/agent/resume-applications-playwright-cli-skills/)
 - [值得长期关注的 Agent 技术博客](https://liuyang.dev/posts/agent/agent-technical-blogs/)
-- [虚拟化扫盲：从容器、KVM 到 Firecracker](https://liuyang.dev/posts/linux/hypervisor/)
-- [LangAC 实训复盘：「零 SQL」英语学习平台](https://liuyang.dev/posts/dev/langac-internship-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More at [liuyang.dev](https://liuyang.dev)
