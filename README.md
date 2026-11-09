@@ -29,11 +29,11 @@ and the network tooling that keeps remote dev boxes reachable.
 
 ### ✍️ Recent writing
 
-<!-- BLOG-POST-LIST:START -->- [从 pstack 学 Agent 工作流：先验证，再决定做什么](https://liuyang.dev/posts/agent/learn-agent-workflow-from-pstack/)
+<!-- BLOG-POST-LIST:START -->- [从一次重构中反思：我是怎么和 Agent 协作的](https://liuyang.dev/posts/agent/reflecting-on-agent-collaboration/)
+- [把 Agent 当人看：以人为本理解 LLM Agent 与 Harness设计](https://liuyang.dev/posts/agent/understanding-agent-and-harness-as-people/)
+- [从 pstack 学 Agent 工作流：先验证，再决定做什么](https://liuyang.dev/posts/agent/learn-agent-workflow-from-pstack/)
 - [个人向域名选购指南：从我手上这一堆域名说起](https://liuyang.dev/posts/misc/why-so-many-domains/)
 - [Resend + Cloudflare 还是自建 Stalwart：我的邮件分工](https://liuyang.dev/posts/network/self-hosted-mail-stalwart/)
-- [My HomeLAB：从接入到自建服务](https://liuyang.dev/posts/network/homelab/)
-- [playwright-cli：最快的 Agent 浏览器方案](https://liuyang.dev/posts/agent/resume-applications-playwright-cli-skills/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More at [liuyang.dev](https://liuyang.dev)
